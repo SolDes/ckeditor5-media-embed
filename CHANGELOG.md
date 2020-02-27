@@ -1,12 +1,28 @@
 Changelog
 =========
 
-## [11.1.5](#) (2019-09-11)
+## [17.0.0](https://github.com/ckeditor/ckeditor5-media-embed/compare/v16.0.0...v17.0.0) (2020-02-19)
 
-### Bug changes
-* Fixed bug for Vidyard regex
+### Other changes
 
-## [11.1.4](#) (2019-09-11)
+* Updated translations. ([7c9dca4](https://github.com/ckeditor/ckeditor5-media-embed/commit/7c9dca4))
+
+
+## [16.0.0](https://github.com/ckeditor/ckeditor5-media-embed/compare/v15.0.0...v16.0.0) (2019-12-04)
+
+### Other changes
+
+* Updated translations. ([47b693f](https://github.com/ckeditor/ckeditor5-media-embed/commit/47b693f))
+
+
+## [15.0.0](https://github.com/ckeditor/ckeditor5-media-embed/compare/v11.1.4...v15.0.0) (2019-10-23)
+
+### Other changes
+
+* Updated translations. ([dd2b7aa](https://github.com/ckeditor/ckeditor5-media-embed/commit/dd2b7aa)) ([f3ef359](https://github.com/ckeditor/ckeditor5-media-embed/commit/f3ef359))
+
+
+## [11.1.4](https://github.com/ckeditor/ckeditor5-media-embed/compare/v11.1.3...v11.1.4) (2019-08-26)
 
 ### Other changes
 

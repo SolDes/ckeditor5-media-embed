@@ -1,5 +1,5 @@
 /**
- * @license Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights reserved.
+ * @license Copyright (c) 2003-2020, CKSource - Frederico Knabben. All rights reserved.
  * For licensing, see LICENSE.md or https://ckeditor.com/legal/ckeditor-oss-license
  */
 
@@ -14,7 +14,7 @@ describe( 'MediaRegistry', () => {
 				{ name: 'dailymotion', url: [] },
 				{ name: 'spotify', url: [] },
 				{ name: 'youtube', url: [] },
-				{ name: 'vimeo', url: [] },
+				{ name: 'vimeo', url: [] }
 			];
 			const removeProviders = [ 'spotify' ];
 
@@ -28,10 +28,10 @@ describe( 'MediaRegistry', () => {
 			const providers = [
 				{ name: 'dailymotion', url: [] },
 				{ name: 'youtube', url: [] },
-				{ name: 'vimeo', url: [] },
+				{ name: 'vimeo', url: [] }
 			];
 			const extraProviders = [
-				{ name: 'spotify', url: [] },
+				{ name: 'spotify', url: [] }
 			];
 
 			const mediaRegistry = new MediaRegistry( {}, { providers, extraProviders } );
@@ -47,7 +47,7 @@ describe( 'MediaRegistry', () => {
 				{ url: [ /dailymotion\.com/ ] },
 				{ name: 'spotify', url: [] },
 				{ name: 'youtube', url: [] },
-				{ name: 'vimeo', url: [] },
+				{ name: 'vimeo', url: [] }
 			];
 
 			const mediaRegistry = new MediaRegistry( {}, { providers } );
