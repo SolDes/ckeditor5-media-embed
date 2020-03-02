@@ -12,8 +12,8 @@
 #
 msgid ""
 msgstr ""
-"Language-Team: Swedish (https://www.transifex.com/ckeditor/teams/11143/sv/)\n"
-"Language: sv\n"
+"Language-Team: Finnish (https://www.transifex.com/ckeditor/teams/11143/fi/)\n"
+"Language: fi\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 msgctxt "Label for the media widget."
@@ -34,7 +34,7 @@ msgstr ""
 
 msgctxt "An error message that informs about an empty value in the URL input."
 msgid "The URL must not be empty."
-msgstr ""
+msgstr "URL-osoite ei voi olla tyhjä."
 
 msgctxt "An error message that informs about unsupported media URL."
 msgid "This media URL is not supported."
@@ -42,7 +42,7 @@ msgstr ""
 
 msgctxt "Toolbar button tooltip for the Media Embed feature."
 msgid "Insert media"
-msgstr "Lägg in media"
+msgstr ""
 
 msgctxt "The label used by assistive technologies describing an image toolbar attached to an image widget."
 msgid "Media toolbar"

@@ -1,4 +1,4 @@
-# Copyright (c) 2003-2019, CKSource - Frederico Knabben. All rights reserved.
+# Copyright (c) 2003-2020, CKSource - Frederico Knabben. All rights reserved.
 #
 #                                     !!! IMPORTANT !!!
 #
@@ -43,3 +43,7 @@ msgstr "Ten rodzaj adresu URL nie jest obsługiwany."
 msgctxt "Toolbar button tooltip for the Media Embed feature."
 msgid "Insert media"
 msgstr "Wstaw media"
+
+msgctxt "The label used by assistive technologies describing an image toolbar attached to an image widget."
+msgid "Media toolbar"
+msgstr "Pasek narzędzi mediów"
