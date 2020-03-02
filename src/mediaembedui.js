@@ -122,7 +122,7 @@ function getFormValidators( t, registry ) {
 		},
 		form => {
 			if ( !registry.hasMedia( form.url ) ) {
-				return t( 'This media URL is not supported.' );
+				return t('This media URL is not supported.') + 'Please enter a valid Salesforce Vidyard url (i.e. https://salesforce.vidyard.com/watch/VIDEOID)';
 			}
 		}
 	];
